@@ -1,0 +1,7 @@
+
+Username: admin
+Product: bag
+Price: 2200
+Name: Aarushi Patel
+Email: aarushipateldpsv@gmail.com
+---------------------------
